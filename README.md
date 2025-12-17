@@ -30,7 +30,7 @@ This project is perfect for anyone learning Python basics while building somethi
 ---
 
 ## 📦 Installation
-Clone the repository and run the script with Python 3
+Clone the TDEE/BMR python code and run the script with Python 3
 
 
 
